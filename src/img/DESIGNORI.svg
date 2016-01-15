@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="363px" height="304px" viewBox="0 0 363 304" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>DESIGNORI</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-3.73763711%" y1="55.4826847%" x2="103.736953%" y2="44.5147511%" id="linearGradient-1">
+            <stop stop-color="#FFC90A" offset="0%"></stop>
+            <stop stop-color="#F15D22" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-3.73846684%" y1="44.5180181%" x2="103.735968%" y2="55.4854204%" id="linearGradient-2">
+            <stop stop-color="#DF2027" offset="0%"></stop>
+            <stop stop-color="#750D0F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-3.78411266%" y1="44.4475766%" x2="103.787279%" y2="55.556008%" id="linearGradient-3">
+            <stop stop-color="#052259" offset="0%"></stop>
+            <stop stop-color="#0086C9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-3.71851649%" y1="55.456247%" x2="103.716445%" y2="44.5441863%" id="linearGradient-4">
+            <stop stop-color="#185625" offset="0%"></stop>
+            <stop stop-color="#B7D433" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-3.7334888%" y1="55.4783056%" x2="103.733048%" y2="44.524073%" id="linearGradient-5">
+            <stop stop-color="#FFC90A" offset="0%"></stop>
+            <stop stop-color="#F15D22" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-3.71839565%" y1="44.5465823%" x2="103.716946%" y2="55.4579983%" id="linearGradient-6">
+            <stop stop-color="#750D0F" offset="0%"></stop>
+            <stop stop-color="#DF2027" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-3.73753188%" y1="55.4872507%" x2="103.73661%" y2="44.519191%" id="linearGradient-7">
+            <stop stop-color="#185625" offset="0%"></stop>
+            <stop stop-color="#B7D433" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-3.72706527%" y1="44.5316038%" x2="103.727406%" y2="55.4708746%" id="linearGradient-8">
+            <stop stop-color="#052259" offset="0%"></stop>
+            <stop stop-color="#0086C9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="index" sketch:type="MSArtboardGroup" transform="translate(-207.000000, -1406.000000)">
+            <g id="DESIGNORI" sketch:type="MSLayerGroup" transform="translate(203.000000, 1406.000000)">
+                <g id="Group" transform="translate(43.198630, 0.000000)" sketch:type="MSShapeGroup">
+                    <g id="1" transform="translate(108.420091, 20.328612)" fill="url(#linearGradient-1)">
+                        <g id="Layer_1">
+                            <path d="M88.669,108.985076 L0.933429224,21.2569518 L21.3299589,0.860577904 L109.060447,88.5920907 L88.669,108.985076 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                    <g id="2" transform="translate(88.091324, 108.419263)" fill="url(#linearGradient-2)">
+                        <g id="Layer_1">
+                            <path d="M0.809762557,88.1516374 L88.5317808,0.42690085 L108.924922,20.8215807 L21.2029041,108.544623 L0.809762557,88.1516374 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                    <g id="3" transform="translate(105.031963, 0.000000)" fill="url(#linearGradient-3)">
+                        <g id="Layer_1">
+                            <path d="M108.8741,20.7216317 L21.3638402,108.232918 L0.969004566,87.8365439 L88.4758767,0.328645892 L108.8741,20.7216317 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                    <g id="4" transform="translate(84.703196, 86.396601)" fill="url(#linearGradient-4)">
+                        <g id="Layer_1">
+                            <path d="M21.1876575,1.362017 L109.006237,89.1765382 L88.6114018,109.56783 L0.794515982,21.7533088 L21.1876575,1.362017 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                    <g id="5">
+                        <g id="Layer_1">
+                            <g id="Group">
+                                <path d="M21.6043973,88.3600057 L109.361991,176.111847 L88.9671553,196.504833 L1.21294977,108.751297 L21.6043973,88.3600057 Z" id="Shape" fill="url(#linearGradient-5)"></path>
+                                <path d="M129.851694,21.0858527 L42.0483607,108.891904 L21.6535251,88.4955297 L109.458553,0.692866856 L129.851694,21.0858527 Z" id="Shape" fill="url(#linearGradient-6)"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="6" transform="translate(172.794521, 20.328612)">
+                        <g id="Layer_1">
+                            <g id="Group">
+                                <path d="M108.396374,108.322703 L20.6658858,20.597966 L41.0607215,0.201592068 L128.79121,87.9297167 L108.396374,108.322703 Z" id="Shape" fill="url(#linearGradient-7)"></path>
+                                <path d="M0.421821918,175.613796 L88.1743333,87.8568725 L108.569169,108.253246 L20.8132694,196.006782 L0.421821918,175.613796 Z" id="Shape" fill="url(#linearGradient-8)"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="DESIGN-+-ORI" transform="translate(0.000000, 244.790368)" font-weight="633" font-family="Loew" line-spacing="64" letter-spacing="0.179999948" sketch:type="MSTextLayer" font-size="60.9106648">
+                    <text id="DESIGN" fill="#494949">
+                        <tspan x="0" y="58">DESIGN</tspan>
+                    </text>
+                    <text id="ORI" fill="#9B9B9B">
+                        <tspan x="252.415525" y="58">ORI</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
