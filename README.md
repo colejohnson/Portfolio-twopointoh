@@ -1,3 +1,2 @@
-# [cole.works](www.cole.works)
+# [cole.works](https://cole.works)
 
-Here's my UX portfolio. From scratch, nice and clean like.
