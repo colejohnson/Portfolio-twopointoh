@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="305px" height="620px" viewBox="0 0 305 620" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Portrait</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M299.905742,174.671215 L299.905742,565.915622 C299.905742,590.266383 280.172674,610 255.830702,610 L49.0458534,610 C24.7084306,610 4.9708134,590.262752 4.9708134,565.915622 L4.9708134,44.084378 C4.9708134,19.7336171 24.703881,0 49.0458534,0 L255.830702,0 C280.168124,0 299.905742,19.7372483 299.905742,44.084378 L299.905742,130.331596 C299.503266,130.634007 299.242926,131.115011 299.242926,131.654942 L299.242926,173.345058 C299.242926,173.887741 299.502199,174.369416 299.905742,174.671215 Z" id="path-1"></path>
+        <rect id="path-2" x="13.2555024" y="6.66666667" width="280.022488" height="595" rx="37.2982742"></rect>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-2.22044605e-14%" id="linearGradient-3">
+            <stop stop-color="#FEE99E" stop-opacity="0.655259284" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.21 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Portrait">
+            <g id="iPhone-6" transform="translate(0.000000, 4.000000)">
+                <g id="Rectangle-5" stroke-width="1.6953761">
+                    <use stroke="#CFCFCF" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use stroke="#D0D0D0" fill="none" xlink:href="#path-1"></use>
+                </g>
+                <g id="Rectangle-6" stroke-width="1.6953761">
+                    <use stroke="#CFCFCF" xlink:href="#path-2"></use>
+                    <use stroke="#D0D0D0" xlink:href="#path-2"></use>
+                </g>
+                <path d="M3.31093508,130.825704 L3.31093516,176.666667" id="Line" stroke="#CFCFCF" stroke-width="1.6953761" stroke-linecap="square"></path>
+                <path d="M4.1423445,77.4019608 L4.1423445,100.931373" id="Line" stroke="#CFCFCF" stroke-width="1.6953761" stroke-linecap="square"></path>
+                <path d="M3.31019025,185.016667 L3.31019025,231.527775" id="Line" stroke="#CFCFCF" stroke-width="1.6953761" stroke-linecap="square"></path>
+                <ellipse id="Oval-6" stroke="#CFCFCF" stroke-width="1.6953761" cx="106.044019" cy="38.3333333" rx="4.9708134" ry="5"></ellipse>
+                <image id="Bitmap" x="126.736522" y="34.1523119" width="51" height="8" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAICAYAAABUHMdEAAAABGdBTUEAA1teXP8meAAAAQNJREFUOBFjZEACCQkJHKysrHIsLCyMSMKDlvn79+8Pc+bMeQlzINjRSUlJvEAPTGZmZo4GSrDAJIcIff3fv3/JM2fOPA72TFpa2gKgR+KBjj8IxKeHiCdAzhQEeiSSkZHxJ5DWZgQlLU5Ozs9AiaPTp093AKkYSiAjIyMC6JnlQDfnMAEZvEAGy////+8PJU/A3Ap0/wMoWxCczIC+uwT0jCpQMAeIz/z9+/c/VMGgpoAeEWRiYuoCYrM/f/5YgzM70CNJQImtQDwH5Hqg5KD2BLLjgHnlPzDw22bPnn0MHDMgSWAhIAL0hA+QqQT0HFwcWeNgYwMD/wPQrQeBJdkZkNsANv5SFMaL1iUAAAAASUVORK5CYII="></image>
+                <ellipse id="Oval-5" stroke="#CFCFCF" stroke-width="1.6953761" cx="152.438278" cy="18.3333333" rx="3.3138756" ry="3.33333333"></ellipse>
+                <rect id="Rectangle-8" stroke="#CFCFCF" stroke-width="1.6953761" x="23.1971292" y="71.6666667" width="258.482297" height="463.333333" rx="3.3907522"></rect>
+                <ellipse id="Oval-7" stroke="#CFCFCF" stroke-width="1.6953761" cx="152.438278" cy="570" rx="19.8832536" ry="20"></ellipse>
+                <ellipse id="Oval-8" stroke="#CFCFCF" stroke-width="1.6953761" cx="152.438278" cy="570" rx="23.1971292" ry="23.3333333"></ellipse>
+            </g>
+            <g id="Group-2" transform="translate(25.000000, 77.000000)">
+                <g id="Background" filter="url(#filter-4)" fill="url(#linearGradient-3)">
+                    <rect id="Card-Background" x="0" y="0" width="255.615942" height="460.323054" rx="1.23188406"></rect>
+                </g>
+                <text id="Snooze" font-family="Lato-Light, Lato" font-size="22.0302376" font-weight="300" fill="#555555">
+                    <tspan x="92.3913043" y="273.426451">Snooze</tspan>
+                </text>
+                <ellipse id="Oval-173" stroke="#555555" stroke-width="0.5" cx="127.5" cy="267.062424" rx="43.7318841" ry="44.4061642"></ellipse>
+                <g id="Room-Navigation-Bar" transform="translate(4.311594, 0.000000)">
+                    <path d="M8.5615942,24.8924695 L9.07553623,24.3706033 L4.1075942,19.326063 L9.07553623,14.2815228 L8.5615942,13.7596565 L3.07971014,19.326063 L8.5615942,24.8924695 Z" id="back" fill="#FFFFFF"></path>
+                    <g id="Status-Bar/Black/100%">
+                        <path d="M2.00181159,8.13070612 C2.93729391,8.13070612 3.69565217,7.36065512 3.69565217,6.41074906 C3.69565217,5.460843 2.93729391,4.69079199 2.00181159,4.69079199 C1.06632927,4.69079199 0.307971014,5.460843 0.307971014,6.41074906 C0.307971014,7.36065512 1.06632927,8.13070612 2.00181159,8.13070612 Z M6.3134058,8.13070612 C7.24888812,8.13070612 8.00724638,7.36065512 8.00724638,6.41074906 C8.00724638,5.460843 7.24888812,4.69079199 6.3134058,4.69079199 C5.37792348,4.69079199 4.61956522,5.460843 4.61956522,6.41074906 C4.61956522,7.36065512 5.37792348,8.13070612 6.3134058,8.13070612 Z M10.625,8.13070612 C11.5604823,8.13070612 12.3188406,7.36065512 12.3188406,6.41074906 C12.3188406,5.460843 11.5604823,4.69079199 10.625,4.69079199 C9.68951768,4.69079199 8.93115942,5.460843 8.93115942,6.41074906 C8.93115942,7.36065512 9.68951768,8.13070612 10.625,8.13070612 Z M14.9365942,8.13070612 C15.8720765,8.13070612 16.6304348,7.36065512 16.6304348,6.41074906 C16.6304348,5.460843 15.8720765,4.69079199 14.9365942,4.69079199 C14.0011119,4.69079199 13.2427536,5.460843 13.2427536,6.41074906 C13.2427536,7.36065512 14.0011119,8.13070612 14.9365942,8.13070612 Z M19.2481884,8.13070612 C20.1836707,8.13070612 20.942029,7.36065512 20.942029,6.41074906 C20.942029,5.460843 20.1836707,4.69079199 19.2481884,4.69079199 C18.3127061,4.69079199 17.5543478,5.460843 17.5543478,6.41074906 C17.5543478,7.36065512 18.3127061,8.13070612 19.2481884,8.13070612 Z" id="Mobile-Signal" fill="#000000"></path>
+                        <text id="Carrier" font-family=".AppleSystemUIFont" font-size="7.34341253" font-weight="normal" fill="#040404">
+                            <tspan x="23.4057971" y="9.18903626">Sketch</tspan>
+                        </text>
+                        <path d="M55.5237375,7.77952486 C55.2046506,7.40860282 54.7279039,7.17310403 54.1952381,7.17310403 C53.6725769,7.17310403 53.203754,7.39983953 52.8848844,7.75876866 L54.2167813,9.06886452 L55.5237375,7.77952486 Z M56.8659217,6.45543195 C56.2014945,5.74887558 55.2508861,5.30650908 54.1952381,5.30650908 C53.1485735,5.30650908 52.2051684,5.74137863 51.5415792,6.43745129 L52.2129738,7.09785624 C52.7044378,6.5704679 53.4105803,6.23980655 54.1952381,6.23980655 C54.9893848,6.23980655 55.7031058,6.57851369 56.1952379,7.11707558 L56.8659217,6.45543195 L56.8659217,6.45543195 Z M58.2065217,5.13290184 C57.1981986,4.09001832 55.7739018,3.43991413 54.1952381,3.43991413 C52.6245534,3.43991413 51.2066791,4.0834633 50.1992754,5.11711888 L50.8703799,5.77723847 C51.7059187,4.91239536 52.886564,4.3732116 54.1952381,4.3732116 C55.5123929,4.3732116 56.6998542,4.91940624 57.5362966,5.79409299 L58.2065217,5.13290184 Z" id="Wi-Fi" fill="#000000"></path>
+                        <text id="7:30-AM" font-family=".AppleSystemUIFont" font-size="7.34341253" font-weight="normal" fill="#040404">
+                            <tspan x="109.433668" y="9.18903626">7:30 AM</tspan>
+                        </text>
+                        <text id="100%" font-family=".AppleSystemUIFont" font-size="7.34341253" font-weight="normal" fill="#040404">
+                            <tspan x="212.256789" y="9.18903626">100%</tspan>
+                        </text>
+                        <path d="M234.372857,3.43991413 C233.858775,3.43991413 233.442029,3.84830916 233.442029,4.36830004 L233.442029,8.45319807 C233.442029,8.96593146 233.856792,9.38158399 234.372857,9.38158399 L246.369897,9.38158399 C246.883979,9.38158399 247.300725,8.97318896 247.300725,8.45319807 L247.300725,4.36830004 C247.300725,3.85556666 246.885961,3.43991413 246.369897,3.43991413 L234.372857,3.43991413 Z M247.608696,5.31623093 L247.608696,7.50526719 L248.070652,7.50526719 C248.325784,7.50526719 248.532609,7.30325164 248.532609,7.0410289 L248.532609,5.78046922 C248.532609,5.52407749 248.318322,5.31623093 248.070652,5.31623093 L247.608696,5.31623093 Z M234.370963,3.7526336 C234.028015,3.7526336 233.75,4.02357505 233.75,4.36247288 L233.75,8.45902524 C233.75,8.79583017 234.026594,9.06886452 234.370963,9.06886452 L246.37179,9.06886452 C246.714739,9.06886452 246.992754,8.79792307 246.992754,8.45902524 L246.992754,4.36247288 C246.992754,4.02566794 246.71616,3.7526336 246.37179,3.7526336 L234.370963,3.7526336 Z M234.370096,4.06535306 C234.197714,4.06535306 234.057971,4.20068054 234.057971,4.37312903 L234.057971,8.44836909 C234.057971,8.61834906 234.199776,8.75614506 234.370096,8.75614506 L246.372657,8.75614506 C246.545039,8.75614506 246.684783,8.62081757 246.684783,8.44836909 L246.684783,4.37312903 C246.684783,4.20314905 246.542978,4.06535306 246.372657,4.06535306 L234.370096,4.06535306 Z" id="Battery" fill="#000000"></path>
+                    </g>
+                </g>
+                <path d="M132.348316,391.212052 L133.351449,390.156592 L123.654817,379.954152 L133.351449,369.751711 L132.348316,368.696251 L121.648551,379.954152 L132.348316,391.212052 Z" id="back" fill="#808080" transform="translate(127.500000, 379.954152) rotate(-270.000000) translate(-127.500000, -379.954152) "></path>
+                <text id="Good-Morning!" font-family="Lato-Light, Lato" font-size="10.4031677" font-weight="300" fill="#606060">
+                    <tspan x="92.3913043" y="168.23605">Good Morning!</tspan>
+                </text>
+                <text id="slide-to-dismiss" font-family="Lato-Light, Lato" font-size="10.4031677" font-weight="300" fill="#4A4A4A">
+                    <tspan x="93.6231884" y="407.779161">slide to dismiss</tspan>
+                </text>
+                <text id="7:30-AM" font-family="Lato-Medium, Lato" font-size="39.1648668" font-weight="400" fill="#606060">
+                    <tspan x="54.8188406" y="149.077252">7:30 AM</tspan>
+                </text>
+                <g id="sun" opacity="0.625991138" transform="translate(214.624929, 42.863803) rotate(28.000000) translate(-214.624929, -42.863803) translate(191.624929, 20.363803)">
+                    <g id="Слой_1" transform="translate(0.000000, -0.000000)">
+                        <g id="Group" transform="translate(0.000000, -0.000000)" fill="#FFC902">
+                            <rect id="Rectangle-path" x="7.15942029" y="6.25438933" width="32.0289855" height="32.5228245"></rect>
+                            <rect id="Rectangle-path" transform="translate(23.173543, 22.515802) rotate(-45.000000) translate(-23.173543, -22.515802) " x="7.49427355" y="6.59478079" width="31.3585398" height="31.8420416"></rect>
+                        </g>
+                        <path d="M9.62318841,22.5158016 C9.62318841,30.1173864 15.6877536,36.2754581 23.173913,36.2754581 C30.6588406,36.2754581 36.7246377,30.1173864 36.7246377,22.5158016 C36.7246377,14.9142168 30.6588406,8.75614506 23.173913,8.75614506 C15.6877536,8.75614506 9.62318841,14.9142168 9.62318841,22.5158016" id="Shape" fill="#FFE272"></path>
+                    </g>
+                </g>
+                <g id="Snooze-button" transform="translate(92.391304, 251.426451)"></g>
+            </g>
+        </g>
+    </g>
+</svg>

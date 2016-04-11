@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="414px" height="736px" viewBox="0 0 414 736" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Bedroom Large Card Back</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.21 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.784313725   0 0 0 0 0.780392157   0 0 0 0 0.8  0 0 0 0.7 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.784313725   0 0 0 0 0.780392157   0 0 0 0 0.8  0 0 0 0.7 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.035 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" in="shadowBlurOuter2" type="matrix" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0357450181 0" in="shadowBlurOuter3" type="matrix" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.784313725   0 0 0 0 0.780392157   0 0 0 0 0.8  0 0 0 0.7 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.035 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" in="shadowBlurOuter2" type="matrix" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0357450181 0" in="shadowBlurOuter3" type="matrix" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.784313725   0 0 0 0 0.780392157   0 0 0 0 0.8  0 0 0 0.7 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.784313725   0 0 0 0 0.780392157   0 0 0 0 0.8  0 0 0 0.7 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bedroom-Large-Card-Back">
+            <g id="Background" fill="#F9F9F9">
+                <rect x="0" y="0" width="414" height="736"></rect>
+            </g>
+            <g id="Rooms-Tab-Bar" transform="translate(-5.000000, 687.000000)">
+                <rect id="Background" fill="#F5F5F5" x="0" y="0" width="424" height="53"></rect>
+                <g id="Rooms" transform="translate(43.000000, 8.000000)">
+                    <g id="home" transform="translate(4.000000, 0.000000)">
+                        <path d="M21.5,10 L21.5,24 L2.5,24 L2.5,10" id="Stroke-1" stroke="#41ADFF" stroke-width="0.9747" stroke-linecap="round"></path>
+                        <path d="M9,24 L9,13.5 L15,13.5 L15,24" id="Stroke-2" stroke="#41ADFF" stroke-width="0.9747" stroke-linecap="round"></path>
+                        <path d="M17,2 L17,3.508 L18,4.547 L18,3 L19,3 L19,5.6015 L20,6.633 L20,2 L17,2 Z" id="Fill-3" fill="#41ADFF"></path>
+                        <path d="M0.0545,12.4705 L12,0.0275 L23.9455,12.4705" id="Stroke-4" stroke="#41ADFF" stroke-width="0.9747" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <text font-family=".AppleSystemUIFont" font-size="10" font-weight="normal" letter-spacing="-0.506172836" fill="#4990E2">
+                        <tspan x="0.903127402" y="36">Rooms</tspan>
+                    </text>
+                </g>
+                <g id="Butler" transform="translate(145.000000, 10.000000)">
+                    <g id="service_bell" transform="translate(1.000000, 0.000000)" stroke="#000000" stroke-linejoin="round">
+                        <path d="M12,1 L12,0" id="Stroke-1"></path>
+                        <path d="M10.5,0 L13.5,0" id="Stroke-2" stroke-linecap="round"></path>
+                        <path d="M24,15.5 C24,15.7755 23.7755,16 23.5,16 L0.5,16 C0.2245,16 0,15.7755 0,15.5 L0,13.5 C0,13.2245 0.2245,13 0.5,13 L23.5,13 C23.7755,13 24,13.2245 24,13.5 L24,15.5 Z" id="Stroke-3" stroke-linecap="round"></path>
+                        <path d="M22.5,12.5 C22.5,6.701 17.799,2 12,2 C6.201,2 1.5,6.701 1.5,12.5" id="Stroke-4" stroke-linecap="round"></path>
+                    </g>
+                    <text font-family=".AppleSystemUIFont" font-size="9.9435602" font-weight="normal" fill="#000000">
+                        <tspan x="-1.31328881" y="33">Butler</tspan>
+                    </text>
+                </g>
+                <g id="Scenes" transform="translate(241.000000, 10.000000)">
+                    <g id="picture" transform="translate(3.000000, 0.000000)">
+                        <path d="M0,0 L24,0 L24,20 L0,20 L0,0 Z" id="Stroke-1" stroke="#000000" stroke-linecap="round"></path>
+                        <path d="M2,2 L22,2 L22,18 L2,18 L2,2 Z" id="Stroke-2" stroke="#000000" stroke-linecap="round"></path>
+                        <path d="M18.5,6.5 C18.5,7.328 17.828,8 17,8 C16.172,8 15.5,7.328 15.5,6.5 C15.5,5.672 16.172,5 17,5 C17.828,5 18.5,5.672 18.5,6.5 L18.5,6.5 Z" id="Fill-3" fill="#000000"></path>
+                        <path d="M2,13 L8.5,7 L14,13" id="Stroke-4" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M12.5,14.5 L16.5,10.5 L22,16" id="Stroke-5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <text font-family=".AppleSystemUIFont" font-size="9.93999958" font-weight="normal" fill="#000000">
+                        <tspan x="-2.47750903" y="34">Scenes</tspan>
+                    </text>
+                </g>
+                <g id="Settings" transform="translate(343.000000, 8.000000)">
+                    <path d="M28,13.4765 L28,10.4765 L24.4295,9.8925 C24.219,9.049 23.8865,8.254 23.449,7.5255 L25.5295,4.5585 L23.408,2.4395 L20.4805,4.543 C19.75,4.1015 18.949,3.7635 18.0975,3.5525 L17.4765,0 L14.4765,0 L13.8985,3.541 C13.047,3.75 12.242,4.082 11.51,4.5235 L8.59,2.4355 L6.469,4.5565 L8.5215,7.494 C8.078,8.2285 7.74,9.033 7.5255,9.8905 L4,10.4765 L4,13.4765 L7.5215,14.1015 C7.7345,14.957 8.0725,15.76 8.5175,16.496 L6.4355,19.408 L8.5565,21.531 L11.498,19.4705 C12.2325,19.912 13.033,20.246 13.8865,20.457 L14.4765,24.002 L17.4765,24.002 L18.1075,20.449 C18.953,20.2345 19.756,19.8965 20.4825,19.453 L23.4435,21.531 L25.5645,19.408 L23.451,16.4725 C23.8885,15.746 24.2205,14.949 24.4295,14.1035 L28,13.4765 Z M16,16 C13.791,16 12,14.209 12,12 C12,9.791 13.791,8 16,8 C18.209,8 20,9.791 20,12 C20,14.209 18.209,16 16,16 L16,16 Z" id="settings" stroke="#000000" stroke-linecap="round"></path>
+                    <text font-family=".AppleSystemUIFont" font-size="9.93999958" font-weight="normal" fill="#000000">
+                        <tspan x="-2.83631752" y="36">Settings</tspan>
+                    </text>
+                </g>
+                <path d="M0.499988049,0.266666671 L418.5,0.266666671" id="Line" stroke="#979797" stroke-width="0.5" stroke-linecap="square"></path>
+            </g>
+            <g id="Room-Navigation-Bar" transform="translate(5.000000, 0.000000)">
+                <path d="M14.1428337,39 L15,38.2031011 L6.71433268,30.5 L15,22.7968989 L14.1428337,22 L5,30.5 L14.1428337,39 Z" id="back" stroke="#41ADFC" stroke-width="0.5" fill="#41ADFF"></path>
+                <g id="Status-Bar/Black/100%" fill="#030303">
+                    <path d="M3.25,13 C4.76878306,13 6,11.7687831 6,10.25 C6,8.73121694 4.76878306,7.5 3.25,7.5 C1.73121694,7.5 0.5,8.73121694 0.5,10.25 C0.5,11.7687831 1.73121694,13 3.25,13 Z M10.25,13 C11.7687831,13 13,11.7687831 13,10.25 C13,8.73121694 11.7687831,7.5 10.25,7.5 C8.73121694,7.5 7.5,8.73121694 7.5,10.25 C7.5,11.7687831 8.73121694,13 10.25,13 Z M17.25,13 C18.7687831,13 20,11.7687831 20,10.25 C20,8.73121694 18.7687831,7.5 17.25,7.5 C15.7312169,7.5 14.5,8.73121694 14.5,10.25 C14.5,11.7687831 15.7312169,13 17.25,13 Z M24.25,13 C25.7687831,13 27,11.7687831 27,10.25 C27,8.73121694 25.7687831,7.5 24.25,7.5 C22.7312169,7.5 21.5,8.73121694 21.5,10.25 C21.5,11.7687831 22.7312169,13 24.25,13 Z M31.25,13 C32.7687831,13 34,11.7687831 34,10.25 C34,8.73121694 32.7687831,7.5 31.25,7.5 C29.7312169,7.5 28.5,8.73121694 28.5,10.25 C28.5,11.7687831 29.7312169,13 31.25,13 Z" id="Mobile-Signal"></path>
+                    <text id="Carrier" font-family=".AppleSystemUIFont" font-size="12" font-weight="normal">
+                        <tspan x="38" y="15.5">Sketch</tspan>
+                    </text>
+                    <path d="M90.1444208,12.4385043 C89.626374,11.8454456 88.8523616,11.4689119 87.987563,11.4689119 C87.1390073,11.4689119 86.3778594,11.8314341 85.8601652,12.4053177 L88.0225391,14.5 L90.1444208,12.4385043 Z M92.3234964,10.3214425 C91.2447794,9.19174563 89.7014387,8.48445596 87.987563,8.48445596 C86.2882723,8.48445596 84.7566264,9.17975893 83.6792698,10.2926936 L84.7692987,11.3486 C85.567205,10.5053708 86.713648,9.97668394 87.987563,9.97668394 C89.2768836,9.97668394 90.4356305,10.518235 91.2346215,11.3793293 L92.3234964,10.3214425 L92.3234964,10.3214425 Z M94.5,8.20687933 C92.8629578,6.53943672 90.5505699,5.5 87.987563,5.5 C85.4375103,5.5 83.1355496,6.52895605 81.5,8.18164431 L82.5895579,9.23709441 C83.9460798,7.85431655 85.8628921,6.99222798 87.987563,6.99222798 C90.1260026,6.99222798 92.0538809,7.86552609 93.4118698,9.26404272 L94.5,8.20687933 Z" id="Wi-Fi"></path>
+                    <text id="9:41-AM" font-family=".AppleSystemUIFont" font-size="12" font-weight="normal">
+                        <tspan x="179.255859" y="15.5">9:41 AM</tspan>
+                    </text>
+                    <text id="100%" font-family=".AppleSystemUIFont" font-size="12" font-weight="normal">
+                        <tspan x="345.853516" y="15.5">100%</tspan>
+                    </text>
+                    <path d="M380.493713,5.5 C379.668758,5.5 379,6.16802155 379,7.00530324 L379,13.4946968 C379,14.3260528 379.67338,15 380.493713,15 L400.006287,15 C400.831242,15 401.5,14.3319784 401.5,13.4946968 L401.5,7.00530324 C401.5,6.17394722 400.82662,5.5 400.006287,5.5 L380.493713,5.5 Z M402,8.5 L402,12 L402.75,12 C403.164214,12 403.5,11.6644053 403.5,11.25774 L403.5,9.24225998 C403.5,8.83232111 403.167101,8.5 402.75,8.5 L402,8.5 Z M380.508152,6 C379.951365,6 379.5,6.45699692 379.5,7.00844055 L379.5,13.4915594 C379.5,14.0485058 379.949058,14.5 380.508152,14.5 L399.991848,14.5 C400.548635,14.5 401,14.0430031 401,13.4915594 L401,7.00844055 C401,6.45149422 400.550942,6 399.991848,6 L380.508152,6 Z M380.506744,6.5 C380.226877,6.5 380,6.71637201 380,6.99209595 L380,13.5079041 C380,13.7796811 380.230225,14 380.506744,14 L399.993256,14 C400.273123,14 400.5,13.783628 400.5,13.5079041 L400.5,6.99209595 C400.5,6.72031886 400.269775,6.5 399.993256,6.5 L380.506744,6.5 Z" id="Battery"></path>
+                </g>
+            </g>
+            <g id="Large-Card-Back-Settings" transform="translate(15.000000, 49.000000)">
+                <rect id="Card-Background" fill="#FFFFFF" filter="url(#filter-1)" x="0" y="0" width="385" height="632" rx="2.92405063"></rect>
+                <text id="Desk-Lamp" font-family="Lato-Regular, Lato" font-size="15.8495298" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="30.2151899" y="23.9517356">Desk Lamp</tspan>
+                </text>
+                <g id="Delete-Cell" transform="translate(0.000000, 542.000000)">
+                    <text id="Delete-This-Device" font-family="Lato-Regular, Lato" font-size="13.5172414" font-weight="normal" letter-spacing="-0.169287141" fill="#D0011B">
+                        <tspan x="137.43038" y="28.7494901">Delete This Device</tspan>
+                    </text>
+                    <path d="M0.487341772,46.1555643 L384.523783,46.1555643" id="Line" stroke="#979797" stroke-width="0.5" stroke-linecap="square"></path>
+                    <path d="M0.487341772,0.250463095 L384.523783,0.250463095" id="Line" stroke="#979797" stroke-width="0.5" stroke-linecap="square"></path>
+                </g>
+                <g id="Segmented-Control" transform="translate(110.139241, 51.744124)">
+                    <rect id="Button-Background" stroke="#4990E2" stroke-width="0.974683544" x="0" y="0" width="168.620253" height="22.4549973" rx="3.89873418"></rect>
+                    <rect id="Separator-Left" fill="#037AFF" x="83.2007828" y="0.774310253" width="1.10934377" height="20.9063768"></rect>
+                    <rect id="Active-Tab" fill="#4990E2" x="0" y="0" width="84.3101266" height="22.4549973"></rect>
+                    <text id="First" font-family="Lato-Regular, Lato" font-size="12.8777429" font-weight="normal" letter-spacing="-0.100869566" fill="#FFFFFF">
+                        <tspan x="20.8608916" y="15.4769677">Settings</tspan>
+                    </text>
+                    <text id="Second" font-family="Lato-Regular, Lato" font-size="12.8777429" font-weight="normal" letter-spacing="-0.100869566" fill="#4990E2">
+                        <tspan x="105.202013" y="15.4769677">Sharing</tspan>
+                    </text>
+                </g>
+                <g id="Light-Icon" transform="translate(10.000000, 8.014819)" stroke="#4A4A4A" stroke-width="0.775999975">
+                    <path d="M2.65972222,12.7559278 L2.65972222,14.2137481 C2.65972222,14.6153776 3.00092659,14.9426583 3.41964286,14.9426583 L7.21924603,14.9426583 C7.6379623,14.9426583 7.97916667,14.6153776 7.97916667,14.2137481 L7.97916667,12.7559278 L2.65972222,12.7559278 Z" id="Stroke-1" stroke-linecap="round"></path>
+                    <path d="M7.97916667,12.7559278 L7.97916667,10.5691973 C7.97916667,8.6058778 10.6388889,8.54064034 10.6388889,5.10237112 C10.6388889,2.28367553 8.2565377,0 5.31944444,0 C2.38235119,0 0,2.28367553 0,5.10237112 C0,8.6131669 2.65972222,8.99876038 2.65972222,10.5691973 L2.65972222,12.7559278" id="Stroke-2" stroke-linejoin="round"></path>
+                    <path d="M6.4593254,14.9426583 C6.4593254,15.5461959 5.94865873,16.0360235 5.31944444,16.0360235 C4.69023016,16.0360235 4.17956349,15.5461959 4.17956349,14.9426583" id="Stroke-3" stroke-linecap="round"></path>
+                    <path id="Stroke-4" d="M5.31944444,6.92464652 L5.31944444,11.6625626"></path>
+                    <path d="M3.79960317,5.4668262 L5.31944444,6.92464652 L6.83928571,5.4668262" id="Stroke-5" stroke-linecap="round"></path>
+                </g>
+                <g id="Cell/Grouped-Cells" transform="translate(0.000000, 162.000000)">
+                    <g id="Cell-One" transform="translate(0.000000, 0.022388)">
+                        <rect id="Cell" fill="#FFFFFF" x="0" y="0" width="385" height="44.9850746"></rect>
+                        <rect id="Separator" fill="white" filter="url(#filter-2)" x="0" y="43.9087335" width="385" height="1.07634118"></rect>
+                        <rect id="Separator" fill="white" filter="url(#filter-3)" x="0" y="-5.68434189e-14" width="385" height="1.07634118"></rect>
+                        <text id="Label" font-family="Lato-Regular, Lato" font-size="17.3348997" font-weight="normal" letter-spacing="-0.418076992" fill="#4A4A4A">
+                            <tspan x="18.28" y="29.2686567">Assigned Room</tspan>
+                        </text>
+                        <g id="Cell-Elements/On-Switch" transform="translate(321.000000, 6.977612)">
+                            <image id="Bitmap" x="0" y="0" width="51" height="31" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAfCAYAAABKz/VnAAAABGdBTUEAA1teXP8meAAAAoVJREFUWAndWU1rFEEQraoekcSTCIpKNKDgL9CDXjRGTAh49AfoISeFxLM5xLMrbP6FR0E2Etl40YP/QPCwSVBREE9mD0532W+wh9lmzK5GstP2Zaamumff2+qPqjdMI7aZ1rvTWTZxS3K6YUTPOKKTTHKCSM2IrxihG1sl91mIPlnH2y6jjTzvP+suX/gwwmDiYZ1uPu5dY8OrSnLFkA7tP+x9f+q3xMrOvVHVhy8eTG/uNf634Gba2+cOW15j1vm9XnCQPlXu9JXuv1qeel/3u7VkFp5szfqYPVXio3WDxvmMSb+R0u3nS2dfxjj89Bxs8+3eHUfSaSIRIAUuZVmfa/XuDiKnwTWDiICIn1pZ3LF5NltWN1eNUDnNrrZ2zh8R97apEan7MzHlvju5FNZQOc0mmNopEQE54J00uhaIFpHB9muMdMPD1K6q7npnabpbRIaZH6VGoIrXb9mrsBkn+yGZ3BnHgVgFtJ97HKw/3O5UhhTFuIM/2fcDPh6LQChSLeRasTNFGzwESWOK4GPM4CG56qnYkaINHuLz92Mpgo8xg4dYoq+xI0UbPCRj/pgi+BgzeAgqutiRog0egtI0RfAxZvAQ1Ng4QWNnSjbwg4dALECNnRL4GCvwg8evRFNX4g4p2RA7gLcgg/TZ15zrKREIWCFyBNWmIAPHruV7hVgQeiVwBV6oNQFqSaYoPb3q4asCf/40v/mI5FBpQskMxCUZGBAHnLOLTSdUEDF2sSpmAH8paMAI7b/RzUAIjKF6NG1TwGLvC1+MIxKCUBuZ4MS10Jq9RqAil8dRWhdaM7nXanUl7FpVfNX7oWRC5/grAOoHw+b4v/4KYNV+QdL4N18BfgKbNQzPvqX1MwAAAABJRU5ErkJggg=="></image>
+                            <ellipse id="Knob" stroke-opacity="0.1" stroke="#000000" stroke-width="0.5" fill="#FFFFFF" filter="url(#filter-4)" cx="35.5" cy="15.5" rx="14" ry="14"></ellipse>
+                        </g>
+                    </g>
+                    <g id="Cell-Two" transform="translate(0.000000, 45.007463)">
+                        <rect id="Cell" fill="#FFFFFF" x="0.0844303322" y="0" width="384.91557" height="44.9850746"></rect>
+                        <rect id="Separator" fill="white" filter="url(#filter-5)" x="0.0844303322" y="43.9626866" width="384.91557" height="1.02238806"></rect>
+                        <text id="Label" font-family="Lato-Regular, Lato" font-size="17.3348997" font-weight="normal" letter-spacing="-0.418076992" fill="#4A4A4A">
+                            <tspan x="18.28" y="29.2686567">Assigned Room</tspan>
+                        </text>
+                        <g id="Cell-Elements/Off-Switch" transform="translate(320.000000, 6.992537)">
+                            <image id="Bitmap" x="0.25" y="0.25" width="52" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAAgCAYAAABdP1tmAAAABGdBTUEAA1teXP8meAAAA9ZJREFUWAnVWN9LU2EY/nY2nZvhwEKlYXQhBCqh4Z0guItAE7qWSKzIiwwp8F/oKhgEWQrSZXQV6G7yanQ/C2SmKdOWP4Yi/pjb/LHNr+f52IlNNrfUdOeFw86+c8533ud73/N+z/OaxOlNGxwctNXX19stFovp9NNkPhmJROJDQ0PR6enpOK7IzKv5/xXsSENDQ+nw8HBzTU1Nj9VqfWA2mx35pz/bHYlEwgeA76ampia6u7tDmC0vwLyAOjo6rG63u7+iouI1JtQQDQFAAoDUoWna2bw+9rSUUhwdHYlkMini8bg4ODgQHCO4QCDQ63K5fhQC7Ni06q/J5/PdW1paCq+ursqdnR2JF2DuizWAk3t7e3J9fV2urKzIhYWFcaR6eTaHTxrT5ufnX3GCzc1NidW5WBQ53haLxWQoFJLBYDDk8XhuZAOQLeU0rMJnpNV9h8Mhysv/eTGyvefcxpiKWGSmY2Jubq65vb3df9LkJj0yDHOxGtNwY2ND4nOIjIyMXEsHlBGhycnJLlQxTzFGJt1pnrNwAJQ4PDz8WVtb24ihBMf/lihWs6qqqk82m63o0oyOHjdW18rKSoHfW9iznujXzfrJ2NjYC7vd3pW6SR8u6l+CYqRgd6PRqBsZxs1YCG6aqGhJlmajGYqE5Lbi9/ufEYtKOXxYd3iOCHHMUMYolZWVCWz8L+G4SQGqrq5+SAbAw4hGQGAudQjMVQWI3Ix0xqim+97U1HSbgDQSTXIzoxrTzmQyCXwyTiUBCMTIgHT/S0pKbmpOp7OEA0RoZKP/zDRtdHQ0RiCpem5YTPQfrCGopZSh0h+GRQPHSVoB6DeLAuWBj2LKqKb7vr29HVBlOxwOv9eVoRFB7e/v0+0EpMSsAgTa8AWUR8ldowJCQD4SlALEBgTC9m13d9dweBgdptzy8vIbOq8A4ZdavYcXIOwMA4pZhc+FxeBrW1vb93RAwoVuCsLmAeM2TMVDi4vdIDEzM0M9pFpcGXwHO+14S0vLY9x0hcy7mDdbZhIXf2tr63lra+tEzrRiNwXaKE7NTq1RjMbuDzXQ4uLiBwDJT3G8Xm8jGxBra2uX0ovLtYhgAxLfjOrPpcBkZFjOKPECuykANcveHDasS48Wu1BcYPqDbaY/V2TyhcuChx9BDb6F+CulkOJB/UHK/r+NVZdlWS/NqGZeFICnnZ2dgVzvzgdIPdfX12cfGBjopcwFo63jYIrdnjswlmISTXKzlCW4aXKfSZXmExv2BQHSZyYOylwqQ4op6g9E7jrH0+450ykARRGJXySa5GakM5hQ9dwKmfgPof7ggxqUqigAAAAASUVORK5CYII="></image>
+                            <ellipse id="Knob" stroke-opacity="0.1" stroke="#000000" stroke-width="0.5" fill="#FFFFFF" filter="url(#filter-6)" cx="16.5" cy="16.5" rx="14" ry="14"></ellipse>
+                        </g>
+                    </g>
+                    <g id="Cell-Three" transform="translate(0.000000, 89.992537)">
+                        <rect id="Cell" fill="#FFFFFF" x="0.0844303322" y="0" width="384.91557" height="44.9850746"></rect>
+                        <text id="Label" font-family="Lato-Regular, Lato" font-size="17.3348997" font-weight="normal" letter-spacing="-0.418076992" fill="#4A4A4A">
+                            <tspan x="18.28" y="29.2686567">Assigned Room</tspan>
+                        </text>
+                        <g id="next" transform="translate(355.000000, 14.000000)" stroke-width="1.13100001" stroke="#6F6F6F">
+                            <g id="Layer_1">
+                                <path d="M0.5,0.507462687 L8.5,9.00746269 L0.5,17.5074627" id="Shape"></path>
+                            </g>
+                        </g>
+                        <rect id="Separator" fill="white" filter="url(#filter-7)" x="0" y="45" width="385" height="1.07634118"></rect>
+                    </g>
+                    <g id="Cell-Three" transform="translate(0.000000, 137.000000)">
+                        <rect id="Cell" fill="#FFFFFF" x="0.0844303322" y="0" width="384.91557" height="44.9850746"></rect>
+                        <text id="Label" font-family="Lato-Regular, Lato" font-size="17.3348997" font-weight="normal" letter-spacing="-0.418076992" fill="#4A4A4A">
+                            <tspan x="18.28" y="29.2686567">Assigned Room</tspan>
+                        </text>
+                        <g id="next" transform="translate(351.000000, 19.000000)" stroke-width="1.13100001" stroke="#6F6F6F">
+                            <g id="Layer_1">
+                                <path d="M4.5,-4.49253731 L12.5,4.00746269 L4.5,12.5074627" id="Shape" transform="translate(8.500000, 4.007463) rotate(-270.000000) translate(-8.500000, -4.007463) "></path>
+                            </g>
+                        </g>
+                        <rect id="Separator" fill="white" filter="url(#filter-8)" x="0" y="45" width="385" height="1.07634118"></rect>
+                    </g>
+                </g>
+            </g>
+            <text id="Bedroom" font-family="Lato-Semibold, Lato" font-size="12" font-weight="500" fill="#000000">
+                <tspan x="183.113" y="37">Bedroom</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

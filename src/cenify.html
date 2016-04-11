@@ -11,6 +11,7 @@
         <!-- Place favicon.ico in the root directory -->
 
         <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/lightbox.css">
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
     </head>
     <body>
@@ -30,7 +31,7 @@
 
                     <p>UX Designer</p>
                 </div>
-                <div class="right" style="float: right">
+                <div class="nav">
                     <h2 style="text-align:left;float:left;padding-right:1em;padding-top: 1.5em;">
                         <a href="about.html">About</a>
                     </h2>
@@ -49,41 +50,66 @@
                 <h3>Rochester, NY	 Winter 2015 - Present </h3>
             </div>
 
-
-            <div class="section">
-            <div class="right"><img class="mobilephotoright" src="img/cenify/main.png"></div>
-                <div class="right"><img class="mobilephotoright" src="img/cenify/bedroo.png"></div>
-
-                <div class="left">
-                <p>&#8195;&#8195;&#8195;&#8195;Creating a smart home interface and experience that’s easier then turning on a light bulb is no easy task.</p>
-                <br>
-                <p>&#8195;&#8195;&#8195;&#8195;The interfaces and user flows I designed are basely solely around simplicity and frictionless actions.
-                    It is imperative in this new realm of smart homes that the product provides convenience, not another
-                    unnecessary process. </p>
-                <br>
-
-                <p>&#8195;&#8195;&#8195;&#8195;Taking use cases from a traditional home environment and translating into a smart solution is one of
-                    the most interesting parts of my job.</p>
+            <div class="textblock-bottom">
+                <p><strong>Role</strong>&#8195;UX and UI for mobile, desktop, and wearable platforms. Also graphic design and web development when
+                    required. </p>
             </div>
-            </div>
-
-
-            <div class="section">
-                <div class="left"><img id="2degreelayout" src="img/cenify/layout.png"></div>
-                <div class="right">
-                    <br><br>
-                    <p>&#8195;&#8195;&#8195;&#8195;Cenify also works with other companies providing software applications to up and coming smart technology.
-                        Recently we’ve been collaborating with a company developing a smart heated jacket. I developed interfaces
-                        for both mobile and wearable, giving the user the ability to control the temperature of their jacket from
-                        devices like the Apple Watch.
-                    </p>
-
-                </div>
-            </div>
-
 
             <div class="profilesplash">
+                <img class="mobilephotoright" data-lightbox="image-1" src="img/cenify/main.svg">
+                <img class="mobilephotoright" data-lightbox="image-1" src="img/cenify/bedroo.svg">
+            </div>
+
+
+
+                <div class="textblock-bottom">
+                <p><strong>Challenge</strong>&#8195;Creating a smart home experience that's easier then turning on a light switch.
+                    Albeit a little gung-ho, the meaning behind that is simple. Smart home solutions like software and
+                    connected devices need to provide clear and accessible advantages to traditional home control. The
+                    Internet of Things market contains many solutions and innovations, but without good user design,
+                    they just won't hold up. </p>
+                </div>
+
+            <div class="profilesplash">
+                <img class="mobilephotoright" data-lightbox="image-2" src="img/cenify/alarmify.svg">
+                <img class="mobilephotoright" data-lightbox="image-2" src="img/cenify/alarmifywake.svg">
+            </div>
+
+            <div class="textblock-bottom">
+                <p><strong>Approach</strong>&#8195;In the new realm of smart home technology, products should provide
+                    convenience over another unnecessary process. In a lot of Cenify's UI, you'll see familar controls
+                    and elements. As a platform, Cenify will be dealing with a long list of devices spanning various
+                    functions and requirements, and it's important to keep our library of UI elements consistent so
+                    users can become familar and stay familar with the app's interactions.</p>
+            </div>
+
+
+            <div class="watches">
                 <img id="watches" src="img/cenify/watches.png">
+            </div>
+
+            <div class="textblock-bottom">
+                <p><strong>The Card System</strong>&#8195;We chose to use a card system for devices for multiple
+                    reasons. A card could encapsulate device controls and specific device settings in visual manner.
+                    Cards are devices. Cards can be reordered, sorted, deleted and added. Each card has two sides. The
+                    front or "small card" is limited to binary functions and small read-outs or statuses. Tapping the
+                    whitespace of the card flips it, to show the back or "large card." Large cards house more
+                    sophiscated and less commonly used functions, settings for grouping and "scenes," as well as any
+                    devices specific settings.</p>
+            </div>
+
+            <div class="watches">
+                <img  class="cards" data-lightbox="cards" src="img/cenify/card1.svg">
+                <img  class="cards" data-lightbox="cards" src="img/cenify/card2.svg">
+                <img  class="cards" data-lightbox="cards" src="img/cenify/card3.svg">
+            </div>
+
+            <div class="textblock-bottom">
+                <p><strong>Platforms</strong>&#8195;The Cenify platform bases itself mainly on iOS with Android and
+                    desktop versions currently in development. Designing for the iPhone has been my primary focus
+                    throughout the course of my work. I quickly found our style, created layouts, and fleshed out user
+                    flows. It's difficult working with some of the limititations of iOS, and catering to a less open
+                    system (as the developers I work with are so quick to point out).</p>
             </div>
 
 
@@ -111,15 +137,18 @@
                 </div>
             </div>
 
-            <p class="copyright">Cole Johnson 2016</p>
+            <p class="copyright">Coded on late nights and early mornings // Cole Johnson 2016</p>
 
         </div>
 
 
-        <script src="https://code.jquery.com/jquery-{{JQUERY_VERSION}}.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-{{JQUERY_VERSION}}.min.js"><\/script>')</script>
+        <script src="https://code.jquery.com/jquery-2.2.0.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-2.2.0.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
+        <script src="js/lightbox.js"></script>
+
+
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
         <script>
